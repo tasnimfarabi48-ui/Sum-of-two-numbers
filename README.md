@@ -1,1 +1,0 @@
-Sum od two numbers
